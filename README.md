@@ -6,6 +6,6 @@ Data is more powerful when we share it with others! Let's take what we've learne
 
 ![Images/landingResize.png](Images/landingResize.png)
 
-## Work Solution Websit
+## Work Solution Website
 
 Available at https://ibourzgui.github.io/weather_visualization_dashboard/
